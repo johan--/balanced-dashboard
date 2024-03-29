@@ -24,7 +24,7 @@
     "ember-cli-less": "1.0.4",
     "ember-cli-qunit": "0.1.0",
     "ember-radio-buttons": "2.1.0",
-    "express": "4.8.5",
+    "express": "4.19.2",
     "glob": "4.0.5",
     "grunt": "0.4.4",
     "grunt-bower-task": "0.4.0",
